@@ -12,3 +12,6 @@ The core FSM manages the voting process across four states:–
 
 **4. DISPLAY_WIN**: Shows the winner; returns to IDLE on btn_ov_cv.   
 
+### 🎥 FPGA Implementation Video
+
+[![Watch Video](Docs/fpga_thumbnail.png)](https://github.com/charan06k/Verilog_Voting_Machine/raw/main/Docs/FPGA%20implementation.mp4)
