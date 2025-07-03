@@ -14,4 +14,4 @@ The core FSM manages the voting process across four states:–
 
 ### 🎥 FPGA Implementation Video
 
-[![Watch Video](Docs/fpga_thumbnail.png)](https://github.com/charan06k/Verilog_Voting_Machine/raw/main/Docs/FPGA%20implementation.mp4)
+[![Watch Video in google Drive](Docs/fpga_thumbnail.png)](https://drive.google.com/file/d/199zJhsXtI5hSCDUYj2rGpt9Fgf5dlshg/view?usp=sharing)
