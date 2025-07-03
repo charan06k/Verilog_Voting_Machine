@@ -58,13 +58,12 @@ The core FSM controls the voting process through **four states**:
 -  **Clock Synchronization**  
   All inputs and counters operate synchronously with the main clock.
 
+###  Block Diagram
+![Block Diagram](Docs/block_diagram.png)
 
 ###  FPGA Implementation Demo
 
 [![Watch Video on Google Drive](Docs/fpga_thumbnail.png)](https://drive.google.com/file/d/199zJhsXtI5hSCDUYj2rGpt9Fgf5dlshg/view?usp=sharing)
 
 ---
-
-###  Block Diagram
-
 
